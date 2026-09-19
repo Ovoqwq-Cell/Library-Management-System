@@ -1,0 +1,5 @@
+﻿  book.cpp
+  Library Management System.cpp
+C:\Users\j\source\repos\Library Management System\Library Management System\Library Management System.cpp(5,7): warning C4930: “Book b1(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  正在生成代码...
+  Library Management System.vcxproj -> C:\Users\j\source\repos\Library Management System\x64\Debug\Library Management System.exe
